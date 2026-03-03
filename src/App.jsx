@@ -3,7 +3,7 @@ import React from "react";
 export default function App() {
   const info = {
     name: "温鹏磊",
-    title: "前端开发工程师",
+    title: "前端开发工程师111",
     location: "上海 · 中国",
     email: "you@example.com",
     github: "https://github.com/yourname",
