@@ -2,7 +2,7 @@ import React from "react";
 
 export default function App() {
   const info = {
-    name: "温鹏磊",
+    name: "温鹏磊版本10",
     title: "前端开发工程师111",
     location: "上海 · 中国",
     email: "you@example.com",
